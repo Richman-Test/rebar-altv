@@ -1,0 +1,3 @@
+[submodule "src/plugins/core"]
+	path = src/plugins/core
+	url = https://github.com/Richman-Test/core
